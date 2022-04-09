@@ -1,14 +1,14 @@
 ### Hi there 👋
-<p align="center"><img width="80%" src="img/gh-readme-header.gif" /></p>
+<p align="center"><img width="80%" src="img/gh-readme-header.png" /></p>
 
 #### About me
 - 🔭 I’m currently a student.
 - 🌱 I’m currently learning Python, Machine Learning and Java.
 - 👯 **Minecraft** is my favorite game and I have my own Minecraft server.
-- 😄 I am planning to develop some plugins for Minecraft server and build an official website for it.
+- 😄 I am planning to develop some plugins for Minecraft server and build an official website for the server.
 
 #### Something else
-- I have severe obsessive-compulsive disorder for code and like strict code specifications
+- I have severe obsessive-compulsive disorder for code and like strict code specifications.
 - Although learning programming, still a beginner in every field. But trying to improve.
 
 #### My Github analysis
