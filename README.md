@@ -6,6 +6,7 @@
 - 🌱 I’m currently learning Python, Machine Learning and Java.
 - 👯 **Minecraft** is my favorite game and I have my own Minecraft server.
 - 😄 I am planning to develop some plugins for Minecraft server and build an official website for the server.
+- 🎻 I like a singer named Mao Buyi very much.
 
 #### Something else
 - I have severe obsessive-compulsive disorder for code and like strict code specifications.
