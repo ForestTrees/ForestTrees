@@ -4,7 +4,7 @@
 #### About me
 - 🔭 I’m currently a student.
 - 🌱 I’m currently learning Python, Machine Learning and Java.
-- 👯 **Minecraft** is my favorite game and I have my own Minecraft server.
+- 👯 **Minecraft** is my favorite game and I have my own Minecraft server.[Here is the official website of the server](http://minecraft.foresttrees.cn/)
 - 😄 I am planning to develop some plugins for Minecraft server and build an official website for the server.
 - 🎻 I like a singer named Mao Buyi very much.
 
