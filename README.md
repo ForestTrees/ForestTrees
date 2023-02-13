@@ -2,18 +2,18 @@
 <p align="center"><img width="80%" src="img/gh-readme-header.png" /></p>
 
 #### About me
-- 🔭 I’m currently a student.
-- 🌱 I’m currently learning Python, Machine Learning and Java.
+- 🔭 A student of Computer Science.
+- 🌱 I’m currently learning Python, Machine Learning and NLP.
 - 👯 **Minecraft** is my favorite game and I have my own Minecraft server.[Here is the official website of the server](http://minecraft.leviosa.top/)
 - 😄 I am planning to develop some plugins for Minecraft server and build an official website for the server.
-- 🎻 I like a singer named Mao Buyi very much.
+- 🎻 My favorite singer is Mao Buyi.
 
 #### Something else
 - I have severe obsessive-compulsive disorder for code and like strict code specifications.
 - I am still a beginner in every field. But trying to improve.
 
 #### My Github analysis
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=ForestTrees&bg_color=30,e96443,904e95&hide_title=true&count_private=true&title_color=fff&text_color=fff&&hide=prs&locale=cn" alt="Anurag's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ForestTrees&layout=compact&theme=buefy&hide_border=true" /> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=ForestTrees&bg_color=30,e96443,904e95&hide_title=true&count_private=true&title_color=fff&text_color=fff&&hide=prs" alt="Anurag's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ForestTrees&layout=compact&theme=buefy&hide_border=true" /> |
 | -- | -- |
 
 
