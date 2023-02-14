@@ -1,5 +1,5 @@
 ### Hi there 👋
-<p align="center"><img width="80%" src="img/gh-readme-header.png" /></p>
+<p align="center"><img width="80%" src="img/readme-header.png" /></p>
 
 #### About me
 - 🔭 A student of Computer Science.
