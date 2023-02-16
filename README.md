@@ -1,12 +1,10 @@
 ### Hi there 👋
-<p align="center"><img width="80%" src="img/readme-header.png" /></p>
-
 #### About me
 - 🔭 A student of Computer Science.
 - 🌱 I’m currently learning Python, Machine Learning and NLP.
 - 👯 **Minecraft** is my favorite game and I have my own Minecraft server.[Here is the official website of the server](http://minecraft.leviosa.top/)
 - 😄 I am planning to develop some plugins for Minecraft server and build an official website for the server.
-- 🎻 My favorite singer is Mao Buyi.
+- 🎻 My favorite singer is Buyi Mao.
 
 #### Something else
 - I have severe obsessive-compulsive disorder for code and like strict code specifications.
